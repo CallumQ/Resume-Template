@@ -9,5 +9,8 @@ It might seem a bit overkill, but once you have your structure working in LaTex 
 ## How to use
 Replace the placeholder content with your information, compile into a PDF (or some other format of your choosing) and you're done!
 
+## Example
+An example output CV can be found [here](Example/Example_CV.pdf).
+
 ## License
 This repository is provided under the MIT license. It can be found [here](LICENSE).
