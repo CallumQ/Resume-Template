@@ -1,7 +1,7 @@
-# CV-Template
+# Resume-Template
 
 ## About
-This repository contains the LaTeX file that I use for my CV (Resume). It is primarily designed to be a single-page, but should work just as well with multiple pages.
+This repository contains the LaTeX file that I use for my Resume (CV in UK-land). It is primarily designed to be a single-page, but should work just as well with multiple pages.
 
 This repository was created on Fedora 40 & Podman was used for launching the dev-container. It should work for other distros but I haven't tested this.
 
