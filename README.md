@@ -11,6 +11,8 @@ It may seem a bit overkill, but once you have your template working with LaTeX i
 ## How to use
 Edit the placeholder content in `resume.tex`. Upon saving the file, the pdf will be automatically regenerated.
 
+If you want to add any additional dependencies, they can be added in the `DEPENDS.txt` file.
+
 ## Example
 An example output CV can be found [here](Example/Example_Resume.pdf).
 

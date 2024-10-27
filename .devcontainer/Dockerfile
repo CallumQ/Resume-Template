@@ -9,5 +9,4 @@ ENV PATH=$PATH:/root/.TinyTeX/bin/x86_64-linux
 # This is required as the most geographically close Mirrors to me don't seem to work.
 RUN tlmgr option repository http://mirror.ctan.org/systems/texlive/tlnet
 
-# Add additional dependencies here
-RUN tlmgr install xcolor
+RUN tlmgr install
