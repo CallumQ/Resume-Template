@@ -12,7 +12,7 @@ It may seem a bit overkill, but once you have your template working with LaTeX i
 Edit the placeholder content in `resume.tex`. Upon saving the file, the pdf will be automatically regenerated.
 
 ## Example
-An example output CV can be found [here](Example/Example_CV.pdf).
+An example output CV can be found [here](Example/Example_Resume.pdf).
 
 ## License
 This repository is provided under the MIT license. It can be found [here](LICENSE).
